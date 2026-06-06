@@ -46,3 +46,16 @@ console.log(und);
 console.log(nul);
 console.log(bigInt);
 console.log(sym);
+// above data types are primitive data types in JavaScript
+
+// non-primitive data types in JavaScript(objects, arrays, functions)
+const student = {
+    name: "Avika",
+    age: 18,
+    city: "Pune"
+};
+console.log(student);
+
+//accessing object properties
+console.log(student["name"])
+console.log(student.age);
