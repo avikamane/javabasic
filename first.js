@@ -23,3 +23,26 @@ let city = "Pune";
 console.log(city);
 let name = "Avika";
 console.log(name);
+
+const country = "India";
+console.log(country);
+const pi = 3.14;
+console.log(pi);
+
+//data types in JavaScript
+
+let num = 42; //number
+let str = "Hello"; //string
+let bool = true; //boolean
+let und; //undefined
+let nul = null; //null
+let bigInt = 9007199254740991n; //bigint
+let sym = Symbol("sym"); //symbol
+
+console.log(num);
+console.log(str);
+console.log(bool);
+console.log(und);
+console.log(nul);
+console.log(bigInt);
+console.log(sym);
