@@ -8,13 +8,13 @@ console.log(Name);
 age = 18;
 console.log(age);
 
-a = 10;
-b = 20;
-c = null;
+ n = 10;
+ k = 20;
+ c = null;
 d = undefined;
 
-console.log(a);
-console.log(b);
+console.log(n);
+console.log(k);
 console.log(c);
 console.log(d);
 
@@ -67,3 +67,4 @@ console.log(student.age);
 // single line comment
 /* this is a 
 multi line comment in JavaScript */
+
