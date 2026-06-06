@@ -21,3 +21,5 @@ console.log(d);
 //let and const in JavaScript
 let city = "Pune";
 console.log(city);
+let name = "Avika";
+console.log(name);
