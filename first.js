@@ -59,3 +59,11 @@ console.log(student);
 //accessing object properties
 console.log(student["name"])
 console.log(student.age);
+// above both the syntax are correct to access the properties of an object in JavaScript
+
+//comments in JavaScript
+// comments are that part of code which are not executed by the JavaScript engine
+// there are two types of comments in JavaScript
+// single line comment
+/* this is a 
+multi line comment in JavaScript */
